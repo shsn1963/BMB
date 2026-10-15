@@ -1,6 +1,6 @@
 {
-  "latestVersion": "1.0.1",
-  "downloadUrl": "https://github.com/shsn1963/BMB/releases/latest/download/BMB_Update.zip",
-  "changelog": "نسخه ۱.۰.۱:\n- رفع باگ گزارش‌ها\n- بهبود سرعت",
+  "latestVersion": "1.0.2",
+  "downloadUrl": "https://github.com/shsn1963/BMB/releases/latest/download/BMB_Update_Test.zip",
+  "changelog": "نسخه تست",
   "zipSha256": ""
 }
